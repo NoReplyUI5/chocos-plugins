@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "id": "com.otkusteyler.mutenewguilds",
+  "name": "Mute New Guilds",
+  "description": "Automatically mutes newly joined guilds. Ported from Vencord",
+  "author": "carince, Glitch, Nuckyz",
+  "contributors": ["OTKUSteyler aka btmc727 (Valenced port)"],
+  "version": "1.0.0",
+  "dependencies": {
+    "valenced.api": { "version": ">=1 <2" },
+    "discord": { "version": "*" }
+  },
+  "dist": {
+    "script": "index.ts"
+  }
+}
