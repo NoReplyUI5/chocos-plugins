@@ -9,7 +9,7 @@ export const AUTHOR = {
 	bannerUrl: '',
 	avatarUrl: '',
 	sponsorUrl: '',
-	githubUrl: '',
+	githubUrl: 'https://github.com/OTKUSteyler',
 	websiteUrl: '',
 }
 
