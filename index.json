@@ -299,32 +299,6 @@
         }
       }
     },
-    "com.otkusteyler.mutenewguilds": {
-      "name": "Mute New Guilds",
-      "description": "Automatically mutes newly joined guilds. Ported from Vencord",
-      "author": "carince, Glitch, Nuckyz",
-      "contributors": [
-        "OTKUSteyler aka btmc727 (Valenced port)"
-      ],
-      "channels": {
-        "latest": "1.0.0"
-      },
-      "versions": {
-        "1.0.0": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.mutenewguilds@1.0.0.zip",
-          "sha256": "f99df00f6b00138094b3f02586233c8b1758775af391627473f4f1b01a19bcb8",
-          "size": 897,
-          "dependencies": {
-            "valenced.api": {
-              "version": ">=1 <2"
-            },
-            "discord": {
-              "version": "*"
-            }
-          }
-        }
-      }
-    },
     "com.otkusteyler.readallplus": {
       "name": "Read All+",
       "description": "Mark a chat read from a button above the message box, or a whole server from its menu.",
