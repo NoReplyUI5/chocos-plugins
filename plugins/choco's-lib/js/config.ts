@@ -8,7 +8,7 @@ export const AUTHOR = {
 	// Order: USRBG / UserPFP, then these, then the built-in images from assets.ts.
 	bannerUrl: '',
 	avatarUrl: '',
-	sponsorUrl: '',
+	sponsorUrl: 'https://throne.com/choccy-chan',
 	githubUrl: 'https://github.com/OTKUSteyler',
 	websiteUrl: '',
 }
