@@ -151,7 +151,7 @@
       "description": "A shared library for Valenced plugins. Provides useful utilities, components and more.",
       "author": "choccychan aka btmc727",
       "channels": {
-        "latest": "1.0.7"
+        "latest": "1.0.8"
       },
       "versions": {
         "1.0.0": {
@@ -249,6 +249,19 @@
           "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.7.zip",
           "sha256": "252c56562585e3ac6fa8dfa34e90b0b4c75345d5a1d718db8879600137ca98de",
           "size": 54227,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.8": {
+          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.8.zip",
+          "sha256": "9c2ba6d55405dcf61b9dd220670e14a7cc55dd8d7ff9b1e2887986648a481c91",
+          "size": 54243,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
