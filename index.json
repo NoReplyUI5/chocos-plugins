@@ -150,8 +150,9 @@
       "name": "choco's lib",
       "description": "A shared library for Valenced plugins. Provides useful utilities, components and more.",
       "author": "choccychan aka btmc727",
+      "icon": "HomeIcon",
       "channels": {
-        "latest": "1.0.8"
+        "latest": "1.0.9"
       },
       "versions": {
         "1.0.0": {
@@ -262,6 +263,19 @@
           "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.8.zip",
           "sha256": "9c2ba6d55405dcf61b9dd220670e14a7cc55dd8d7ff9b1e2887986648a481c91",
           "size": 54243,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.9": {
+          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.9.zip",
+          "sha256": "2e9141c64372976afe9331e0754c79351fdeeb9de053b2b060d03c1ac7bb4c75",
+          "size": 54254,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
