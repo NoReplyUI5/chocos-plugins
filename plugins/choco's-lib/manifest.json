@@ -3,8 +3,8 @@
   "id": "com.otkusteyler.lib",
   "name": "choco's lib",
   "description": "A shared library for Valenced plugins. Provides useful utilities, components and more.",
-  "author": "choccychan aka btmc727",
-  "version": "1.0.9",
+  "author": "choccychan aka btmc727 <554071670143451176>",
+  "version": "1.1.0",
   "icon": "HomeIcon",
   "dependencies": {
     "valenced.api": {
