@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "name": "choco's valenced plugins ",
+  "name": "choco's plugins valenced",
   "description": "Just ports from Next For Valenced.",
   "plugins": {
     "com.autumnvn.notypinganimation": {
@@ -370,7 +370,7 @@
       "description": "Displays custom Discord profile banners from UserBG and custom avatars from UserPFP.",
       "author": "<554071670143451176>btmc727 & <1053918356375351386>knifecodez",
       "channels": {
-        "latest": "1.1.6"
+        "latest": "1.1.7"
       },
       "versions": {
         "1.0.4": {
@@ -538,6 +538,22 @@
         "1.1.6": {
           "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.6.zip",
           "sha256": "7d601868569515d93c8afa8bc7dbca6da4b0a935db0acba8538f066063bbaacf",
+          "size": 3358,
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.7": {
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.7.zip",
+          "sha256": "7e1723958761a85afe2f517fd3f33a711cb904efb75619fd133faa125af0a7cd",
           "size": 3358,
           "dependencies": {
             "com.otkusteyler.lib": {
