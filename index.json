@@ -12,7 +12,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.autumnvn.notypinganimation@1.0.0.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.autumnvn.notypinganimation@1.0.0.zip",
           "sha256": "6fa92561ca0e7183b711f6dd6f492cc75ef4fefc78c60a4c12bd5e71cdcfcd14",
           "size": 649,
           "dependencies": {
@@ -25,7 +25,7 @@
           }
         },
         "1.0.1": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.autumnvn.notypinganimation@1.0.1.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.autumnvn.notypinganimation@1.0.1.zip",
           "sha256": "bed94c82443d5cb0f64e9c8eaf5261ce583340d28115b02c52eeb523cd89fcab",
           "size": 648,
           "dependencies": {
@@ -51,7 +51,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.gifroulette@1.0.0.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.0.zip",
           "sha256": "29b090529742c6d751525832bc8fba8ba5a833d6324d1a0ef9096c2d6978431c",
           "size": 1131,
           "dependencies": {
@@ -64,7 +64,7 @@
           }
         },
         "1.0.1": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.gifroulette@1.0.1.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.1.zip",
           "sha256": "23e136ed122f9b096adc3ff1160f442b002774f607ef776daf1ab7e14adb94ed",
           "size": 1102,
           "dependencies": {
@@ -77,7 +77,7 @@
           }
         },
         "1.0.2": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.gifroulette@1.0.2.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.2.zip",
           "sha256": "e9c878d830fb3f7ed3bd9198d5e8720d8a523df785a6d66d6d2ad641fd9c9f51",
           "size": 1488,
           "dependencies": {
@@ -90,7 +90,7 @@
           }
         },
         "1.0.3": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.gifroulette@1.0.3.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.3.zip",
           "sha256": "6357d537aeecb88f16d386a593601dfe7483ce32a433a7049453cfd0555f60b9",
           "size": 1488,
           "dependencies": {
@@ -103,7 +103,7 @@
           }
         },
         "1.0.4": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.gifroulette@1.0.4.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.4.zip",
           "sha256": "27f3302ac4340b74059b5dee25b6842c254796a3ddec7dbdd999284670fc4f22",
           "size": 1488,
           "dependencies": {
@@ -116,7 +116,7 @@
           }
         },
         "1.0.5": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.gifroulette@1.0.5.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.5.zip",
           "sha256": "bb2a92c90a82a8f96fc17b0a5fd8db78fad344e6c40f40374be5603c9bba998f",
           "size": 1488,
           "dependencies": {
@@ -129,7 +129,7 @@
           }
         },
         "1.0.6": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.gifroulette@1.0.6.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.gifroulette@1.0.6.zip",
           "sha256": "e6541b3ff5482c5288e27e580577c9cf1599f6ccb423f026231de45bffda2cdb",
           "size": 1506,
           "dependencies": {
@@ -156,7 +156,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.0.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.0.zip",
           "sha256": "6c33b315588fba25ce2cc20fad43a4c7ef4b8e15331f8b3ed42cceb8ac2d3a05",
           "size": 551,
           "dependencies": {
@@ -169,7 +169,7 @@
           }
         },
         "1.0.1": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.1.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.1.zip",
           "sha256": "a571499f2568c5e373e7994dd7f46de9b0f46acd3e21791bcf42f49f9a78e8b7",
           "size": 1452,
           "dependencies": {
@@ -182,7 +182,7 @@
           }
         },
         "1.0.2": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.2.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.2.zip",
           "sha256": "4eedccd0a7c5903aebea82611696c8909d8750e562d5e27807da6c7776e3e33d",
           "size": 1452,
           "dependencies": {
@@ -195,7 +195,7 @@
           }
         },
         "1.0.3": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.3.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.3.zip",
           "sha256": "0365fa8ecb3af66be656a7c310178b3fd7831c9daaa96ab1a82e3b12cb75df5e",
           "size": 2425,
           "dependencies": {
@@ -208,7 +208,7 @@
           }
         },
         "1.0.4": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.4.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.4.zip",
           "sha256": "ca9240a31f851d68c2e5a266f363cd8fc4285f0be93deee55f1feb0e66b7b377",
           "size": 2075,
           "dependencies": {
@@ -221,7 +221,7 @@
           }
         },
         "1.0.5": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.5.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.5.zip",
           "sha256": "df293df576faef9e0a83daa1024ab13db2e661e9428c9898762120a56e9f4634",
           "size": 3298,
           "dependencies": {
@@ -234,7 +234,7 @@
           }
         },
         "1.0.6": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.6.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.6.zip",
           "sha256": "8df0bc739711c4d5170351c935027734a8ec91e627804265bcb85467a3f13db0",
           "size": 54223,
           "dependencies": {
@@ -247,7 +247,7 @@
           }
         },
         "1.0.7": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.7.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.7.zip",
           "sha256": "252c56562585e3ac6fa8dfa34e90b0b4c75345d5a1d718db8879600137ca98de",
           "size": 54227,
           "dependencies": {
@@ -260,7 +260,7 @@
           }
         },
         "1.0.8": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.8.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.8.zip",
           "sha256": "9c2ba6d55405dcf61b9dd220670e14a7cc55dd8d7ff9b1e2887986648a481c91",
           "size": 54243,
           "dependencies": {
@@ -273,7 +273,7 @@
           }
         },
         "1.0.9": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.0.9.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.0.9.zip",
           "sha256": "2e9141c64372976afe9331e0754c79351fdeeb9de053b2b060d03c1ac7bb4c75",
           "size": 54254,
           "dependencies": {
@@ -286,7 +286,7 @@
           }
         },
         "1.1.0": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.lib@1.1.0.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.lib@1.1.0.zip",
           "sha256": "57c38d300e80826e287871f259ea23aca12bdc4423dfdbd2110ce7553b4179fb",
           "size": 54271,
           "dependencies": {
@@ -312,7 +312,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.loginsound@1.0.0.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.loginsound@1.0.0.zip",
           "sha256": "209f22c5c3f0dd1de2a383cae68347eb87504c9b7a4401b2c2b5eb01a65d7651",
           "size": 1167,
           "dependencies": {
@@ -325,7 +325,7 @@
           }
         },
         "1.0.1": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.loginsound@1.0.1.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.loginsound@1.0.1.zip",
           "sha256": "7a94ab359aac775ba526045a3054fd9fc82c0a6c30dde0ccc191c1d3fd432afd",
           "size": 1167,
           "dependencies": {
@@ -351,7 +351,7 @@
       },
       "versions": {
         "1.5.7": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.otkusteyler.readallplus@1.5.7.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.otkusteyler.readallplus@1.5.7.zip",
           "sha256": "6c57cd0b2a4bf13eab0c15bce3b534ebfdcc4bfebff6fb6756af482c0d38997e",
           "size": 383,
           "dependencies": {
@@ -368,13 +368,13 @@
     "com.valenced.nitro-profiles": {
       "name": "Nitro-Profiles",
       "description": "Displays custom Discord profile banners from UserBG and custom avatars from UserPFP.",
-      "author": "btmc727 & knifecodez",
+      "author": "<554071670143451176>btmc727 & <1053918356375351386>knifecodez",
       "channels": {
-        "latest": "1.1.5"
+        "latest": "1.1.6"
       },
       "versions": {
         "1.0.4": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.0.4.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.0.4.zip",
           "sha256": "551464577902c77953c662abb1e59dd29daa2dc3ac0afe68381af0b7bbd84794",
           "size": 2868,
           "dependencies": {
@@ -387,7 +387,7 @@
           }
         },
         "1.0.5": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.0.5.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.0.5.zip",
           "sha256": "35b26af613d672e819047b162e5131f20c212dbd396b33d0e1d6f3d98b0ff20e",
           "size": 2963,
           "dependencies": {
@@ -400,7 +400,7 @@
           }
         },
         "1.0.6": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.0.6.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.0.6.zip",
           "sha256": "1216bb3af16634ff08c5c6284b19d4b82501273fce0924f5c3ee3c3807891e3a",
           "size": 3084,
           "dependencies": {
@@ -413,7 +413,7 @@
           }
         },
         "1.0.7": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.0.7.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.0.7.zip",
           "sha256": "ab705475cc79d98d48c1e29f20cec5145bc47d62f5a090829d8fec322c458caa",
           "size": 3036,
           "dependencies": {
@@ -426,7 +426,7 @@
           }
         },
         "1.0.8": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.0.8.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.0.8.zip",
           "sha256": "db68b8ab873984d0e549e1dc5760e1c7c6de22a1fb73649adf7e9c4aaf975dbb",
           "size": 3036,
           "dependencies": {
@@ -439,7 +439,7 @@
           }
         },
         "1.0.9": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.0.9.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.0.9.zip",
           "sha256": "c2a20aa0a7e39765ff9cc7d51741d60a416de4cfe1bd57643b4ab0e4b71101ce",
           "size": 3015,
           "dependencies": {
@@ -452,7 +452,7 @@
           }
         },
         "1.1.0": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.1.0.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.0.zip",
           "sha256": "d1846b498f606a827a2b676e41032de23389d8d2ba6170c022644bdc34a7441a",
           "size": 2980,
           "dependencies": {
@@ -465,7 +465,7 @@
           }
         },
         "1.1.1": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.1.1.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.1.zip",
           "sha256": "7e7a5f5bc2ac0e03a09738386b0a662cea3a2bffaad363ebd404f088485b5590",
           "size": 3102,
           "dependencies": {
@@ -478,7 +478,7 @@
           }
         },
         "1.1.2": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.1.2.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.2.zip",
           "sha256": "7388d843db87e3fcd2be32e7ad80c587c9b969e1474ebfb955c4c38599ece85b",
           "size": 3096,
           "dependencies": {
@@ -491,7 +491,7 @@
           }
         },
         "1.1.3": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.1.3.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.3.zip",
           "sha256": "679524a2deaf4ccbf1c8d6613b0785ca4243f54148d544147e7748a741943ecf",
           "size": 3297,
           "dependencies": {
@@ -504,7 +504,7 @@
           }
         },
         "1.1.4": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.1.4.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.4.zip",
           "sha256": "789b776e8dcbe3fe52b9890493e020bd875618686de0715962b6f75b7cc6137a",
           "size": 3314,
           "dependencies": {
@@ -520,9 +520,25 @@
           }
         },
         "1.1.5": {
-          "url": "https://otkusteyler.github.io/btmc727-s-Valenced-plugins-/pool/com.valenced.nitro-profiles@1.1.5.zip",
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.5.zip",
           "sha256": "0b18212dad31ec413bf8076fcb01007f95cab03b1adf6fe13ba73ae60513315b",
           "size": 3324,
+          "dependencies": {
+            "com.otkusteyler.lib": {
+              "version": ">=1.0.0 <2"
+            },
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        },
+        "1.1.6": {
+          "url": "https://otkusteyler.github.io/chocos-plugins/pool/com.valenced.nitro-profiles@1.1.6.zip",
+          "sha256": "7d601868569515d93c8afa8bc7dbca6da4b0a935db0acba8538f066063bbaacf",
+          "size": 3358,
           "dependencies": {
             "com.otkusteyler.lib": {
               "version": ">=1.0.0 <2"
