@@ -4,7 +4,7 @@
   "name": "Nitro-Profiles",
   "description": "Displays custom Discord profile banners from UserBG and custom avatars from UserPFP.",
   "author": "<554071670143451176>btmc727 & <1053918356375351386>knifecodez",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "dependencies": {
     "com.otkusteyler.lib": {
       "version": ">=1.0.0 <2"
