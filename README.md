@@ -1,4 +1,4 @@
-# Valenced Plugin Template
+# chocos'valenced Plugins. 
 
 This repository is a starter monorepo for external Valenced plugins. Each plugin becomes one ZIP
 file. One repository can hold any number of plugins under `plugins/`, and theme plugins under `themes/`.
